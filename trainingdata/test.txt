@@ -1,0 +1,9 @@
+Great.	1
+boo.	0
+Yay!	1
+I HATED it.	0
+I liked it - fun!	1
+Rather dull and insipid.	0
+Awesome!!!!!!!!!		1
+It was horrible!	0
+I didn't really care for it.	0
